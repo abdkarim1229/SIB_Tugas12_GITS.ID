@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/AndroidProject/TugaskeDuabelas/app/src/main/res/drawable/bg_details.xml" value="0.21614583333333334" />
         <entry key="..\:/Android/AndroidProject/TugaskeDuabelas/app/src/main/res/drawable/bg_item.xml" value="0.21614583333333334" />
+        <entry key="..\:/Android/AndroidProject/TugaskeDuabelas/app/src/main/res/layout/activity_details.xml" value="0.33" />
         <entry key="..\:/Android/AndroidProject/TugaskeDuabelas/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Android/AndroidProject/TugaskeDuabelas/app/src/main/res/layout/item_makanan.xml" value="1.075" />
+        <entry key="..\:/Android/AndroidProject/TugaskeDuabelas/app/src/main/res/layout/item_makanan.xml" value="0.75" />
         <entry key="..\:/Android/AndroidProject/TugaskeDuabelas/app/src/main/res/layout/item_wisata.xml" value="1.1642857142857144" />
       </map>
     </option>

@@ -1,3 +1,3 @@
 package com.example.tugaskeduabelas
 
-data class Makanan(var image: Int, var nama: String, var harga: String)
+data class Makanan(var image: Int, var nama: String, var harga: String, var details: String)
